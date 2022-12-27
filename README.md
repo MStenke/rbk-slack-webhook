@@ -33,7 +33,7 @@ Run **git clone https://github.com/chrisbeckett/rbk-slack-connector.git**
 
 Click the "Deploy to Azure" button (right click and "open in a new tab" is recommended) and fill out the deployment form
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fchrisbeckett%2Frbk-slack-webhook%2Fmain%2Fdeployment-template.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/MStenke/rbk-slack-webhook/main/deployment-template.json)
 
 - Both the **Azure Function** name and the **Storage Account** name **must be globally unique or deployment will fail (if a new storage account is created)**
 - Once the ARM template deployment is complete, open a command prompt and navigate to the **rbk-slack-connector** folder
