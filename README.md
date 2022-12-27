@@ -36,8 +36,7 @@ Click the "Deploy to Azure" button (right click and "open in a new tab" is recom
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fchrisbeckett%2Frbk-slack-webhook%2Fmain%2Fdeployment-template.json)
 
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)]
-(https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMStenke%2Frbk-slack-webhook%2Fmain%2Fdeployment-template.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMStenke%2Frbk-slack-webhook%2Fmain%2Fdeployment-template.json)
 
 https://github.com/MStenke/rbk-slack-webhook/blob/main/deployment-template.json
 
